@@ -57,3 +57,9 @@
             (+ (* (get-x shifted) sn) (* (get-y shifted) cs)))
         returned (+ rotated pivot)]
     returned))
+
+(defn euclidean-dist [p1 p2]
+  (length (- p2 p1)))
+
+(defn normal-rot [dir]
+  (rotate-2d dir (make-point 0.0 0.0) 90.0))
