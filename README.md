@@ -29,10 +29,6 @@ Note: The following sample contains only TWO lines. We wrapped the lines for pri
     25.00 0.00
     25.00 0.00
 
-##Sample Diagrams
-![Problem 1](sample1.png)
-![Problem 2](sample2.png)
-
 ## License
 
 Copyright © 2013 Michael Chua
